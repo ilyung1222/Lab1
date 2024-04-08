@@ -1,0 +1,8 @@
+            - name: Jupyterbook Action
+  # You may pin to the exact commit or the version.
+  # uses: ckrusemd/jupyterbook-action@79a9fc5324a6720b8b21cd72a297ed767cfc3e10
+  uses: ckrusemd/jupyterbook-action@v0.17
+  with:
+    # iPynb to generate
+    generatefile: # default is generate_files_ipynb
+          
